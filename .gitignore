@@ -1,0 +1,11 @@
+# Ignore all files.
+*
+!*/
+
+# Don't ignore files with these extensions.
+!*.sh
+
+# Don't ignore these repo files.
+!.gitignore
+!.gitattributes
+!.editorconfig
